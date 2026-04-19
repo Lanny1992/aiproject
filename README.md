@@ -1,4 +1,4 @@
-# AI Project Documentation
+# AI 项目研究
 
 ## Project Description
 This repository collects some very practical AI basic content. It aims to provide helpful resources and examples for those interested in artificial intelligence and its applications.
